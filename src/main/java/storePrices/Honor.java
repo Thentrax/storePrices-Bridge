@@ -1,2 +1,5 @@
-package storePrices;public interface Honor {
+package storePrices;
+
+public interface Honor {
+    float discount();
 }
